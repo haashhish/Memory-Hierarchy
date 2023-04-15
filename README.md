@@ -12,3 +12,5 @@ addresses in bytes
 index alongside the valid bit and tag for each index. The hit/miss ratio is calculated as
 well as Average Memory Access Time (AMAT) value using the value of 100 clock cycles
 provided in the project description.
+
+Created this project for the following course: CSCE230302 - Comp Org. and Assmbly Lang Prog in Fall 2022 at AUC.
